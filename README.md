@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Yariv!
 
-<!--
-**yarivschoss/yarivschoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I'm an Electrical & Electronics Engineering student  
+🔬 Interested in chip design, embedded systems, and digital signal processing  
+💻 Experience with C++, Python, VHDL, and MATLAB  
+🚀 Worked at Intel and HP in lab operations, hardware support and R&D integration. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Projects
+- 🔄 [RLC Circuit Simulator](https://github.com/yourusername/rlc-sim)
+- 🧠 [DSP Final Project – Convolution Filters](https://github.com/yourusername/dsp-convolution)
+- 📦 [VHDL 7-Segment Display](https://github.com/yourusername/vhdl-7seg)
+
+---
+
+### 📫 Contact Me
+- 📧 Email: yarivshossberger@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yariv-shossberger-2334911b0)  
