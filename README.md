@@ -9,7 +9,7 @@
 
 ### 🔧 My Projects
 - 🔄 [RLC Circuit Simulator](https://github.com/yourusername/rlc-sim)
-- 🧠 [DSP Final Project – Convolution Filters](https://github.com/yourusername/dsp-convolution)
+- 🧠 [DSP Final Project – Convolution Filters]([https://github.com/yourusername/dsp-convolution](https://github.com/yarivschoss/DSP_Final_Proj))
 - 📦 [VHDL 7-Segment Display](https://github.com/yourusername/vhdl-7seg)
 
 ---
