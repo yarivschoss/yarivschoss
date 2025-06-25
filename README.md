@@ -8,9 +8,10 @@
 ---
 
 ### 🔧 My Projects
-- 🔄 [RLC Circuit Simulator](https://github.com/yourusername/rlc-sim)
+- ⚡ [RLC Circuit Simulator](https://github.com/yourusername/rlc-sim)
 - 🧠 [DSP Final Project – Convolution Filters](https://github.com/yarivschoss/DSP_Final_Proj)
-- 📦 [VHDL 7-Segment Display](https://github.com/yourusername/vhdl-7seg)
+- 🏥 [Hospital-Management System (C++ OOP Final)](https://github.com/yarivschoss/Final_Project)
+- 💻 [VHDL 7-Segment Display](https://github.com/yourusername/vhdl-7seg)
 
 ---
 
