@@ -2,7 +2,7 @@
 
 🔧 I'm an Electrical & Electronics Engineering student  
 🔬 Interested in chip design, embedded systems, and digital signal processing  
-💻 Experience with C++, Python, VHDL, and MATLAB  
+💻 Experience with C/C++, Python, VHDL, and MATLAB  
 🚀 Worked at Intel and HP in lab operations, hardware support and R&D integration. 
 
 ---
