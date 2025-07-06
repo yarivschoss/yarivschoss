@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 My Projects
-- ⚡ [RS-232 Communication (LabWindows/CVI)](https://github.com/yarivschoss/CVI-RS232-Comms-Lab)
+- 🎮 [RS-232 Tic-Tac-Toe (LabWindows/CVI)](https://github.com/yarivschoss/CVI-RS232-TicTacToe)
 - 🧠 [DSP Final Project – Convolution Filters](https://github.com/yarivschoss/DSP_Final_Proj)
 - 🏥 [Hospital-Management System (C++ OOP Final)](https://github.com/yarivschoss/Final_Project)
 - 🔐 [Safe-Lock + PWM Generator (TMS320F28335)](https://github.com/yarivschoss/MicroCtrl_Final)
