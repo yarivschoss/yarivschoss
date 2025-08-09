@@ -12,7 +12,7 @@
 - 🧠 [DSP Final Project – Convolution Filters](https://github.com/yarivschoss/DSP_Final_Proj)
 - 🏥 [Hospital-Management System (C++ OOP Final)](https://github.com/yarivschoss/Final_Project)
 - 🔐 [Safe-Lock + PWM Generator (TMS320F28335)](https://github.com/yarivschoss/MicroCtrl_Final)
-- 💻 [VHDL 7-Segment Display](https://github.com/yourusername/vhdl-7seg)
+- ⚙️ [Radix-16 Serial Multiplier (VHDL)](https://github.com/yarivschoss/vhdl-radix16-serial-multiplier)
 
 ---
 
